@@ -14,7 +14,7 @@
 
 Cotizaciones de divisas en el Mercado Libre de Cambios "Valor Hoy" al último cierre Operaciones.
 
-Fecha: 3/5/2023 .
+Fecha: 3/5/2023 . Argentina.
 
 
 
